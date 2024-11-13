@@ -13,7 +13,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
    ```bash
    git clone https://github.com/bartosz-skejcik/oxido-recruitement-application.git
-   cd oxido
+   cd oxido-recruitement-application
    ```
 
 2. **Install dependencies**:
